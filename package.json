@@ -30,6 +30,6 @@
         "user-agents": "^1.0.1082"
     },
     "devDependencies": {
-        "nodemon": "^2.0.15"
+        "nodemon": "^2.0.21"
     }
 }
